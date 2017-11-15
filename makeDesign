@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+export XCPEDIR=$(pwd)
+${XCPEDIR}/core/config/config_ui
